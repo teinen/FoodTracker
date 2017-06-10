@@ -2,7 +2,7 @@
 //  FoodTrackerTests.swift
 //  FoodTrackerTests
 //
-//  Created by AKIRA KANNO on 2017/06/07.
+//  Created by teinen on 2017/06/07.
 //  Copyright © 2017年 Apple Inc. All rights reserved.
 //
 

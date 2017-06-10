@@ -33,7 +33,6 @@ import UIKit
     override init(frame: CGRect) {
         super.init(frame: frame)
         setupButtons()
-        
     }
 
     required init(coder: NSCoder) {
