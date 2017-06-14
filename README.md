@@ -1,2 +1,3 @@
 # FoodTracker
-Swiftの公式チュートリアルで実装したソースコード
+Apple official tutorial(Swift).
+https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/
